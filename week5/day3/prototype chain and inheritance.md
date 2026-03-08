@@ -10,7 +10,7 @@
 ---
 
 ## 1. Prototype Chain Fundamentals
-Every JavaScript object has an internal link—its **prototype**—to another object. When you access a property:
+Every JavaScript object has an internal link, its **prototype**, to another object. When you access a property:
 1. JS looks on the object itself.
 2. If not found, it follows the internal `[[Prototype]]` (exposed as `__proto__` or via `Object.getPrototypeOf`).
 3. It continues up the chain until it either finds the property or reaches `null` (the end).
@@ -54,7 +54,7 @@ console.log(Object.getPrototypeOf(Object.prototype)); // null (Chain ends here)
 ---
 
 ## 3. Adding Methods at Runtime
-You can augment a prototype after instances already exist—those instances immediately “see” the new method:
+You can augment a prototype after instances already exist, those instances immediately “see” the new method:
 
 ```javascript
 function Person(name) { this.name = name; }

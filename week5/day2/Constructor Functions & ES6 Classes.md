@@ -10,7 +10,7 @@
 ---
 
 ## 1. Constructor Functions
-Before ES6 class syntax, JavaScript relied on functions to act as constructors—blueprints for creating multiple similar objects.
+Before ES6 class syntax, JavaScript relied on functions to act as constructors, blueprints for creating multiple similar objects.
 
 ### 1.1 Defining a Constructor
 ```javascript
