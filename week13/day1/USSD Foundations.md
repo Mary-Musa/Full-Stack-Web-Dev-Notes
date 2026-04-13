@@ -1,5 +1,7 @@
 # Week 13, Day 1: USSD Foundations
 
+> **AI boundaries this week:** 45% manual / 55% AI. Habit: *Protocol first, code second -- read the real docs before you prompt anything.* See [ai.md](../ai.md).
+
 By the end of today, you will have an Africa's Talking sandbox account with a USSD channel pointed at your local machine through ngrok, and an Express endpoint that responds to `*384*1234#` with a three-option menu that a real phone can dial into. You will not have state persistence yet -- that is tomorrow. Today is about understanding what USSD actually is, how it differs from every other channel you have built for so far, and getting a clean "Hello Kenya" working end to end.
 
 This is the start of the fourth big integration of the Marathon. You have already done M-Pesa (Week 10), WhatsApp (Week 11), and the whole Postgres+auth backbone (Week 12). USSD is the last pillar of the "communication stack" the syllabus promised. After this week you can build for any Kenyan user, whether they have a smartphone or a Nokia 3310.
