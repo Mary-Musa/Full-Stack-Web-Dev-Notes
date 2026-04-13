@@ -1,5 +1,7 @@
 # Week 14, Day 1: Why Next.js and First Pages
 
+> **AI boundaries this week:** 40% manual / 60% AI. Habit: *Framework docs before framework prompts -- nextjs.org/docs first, AI second.* See [ai.md](../ai.md).
+
 By the end of today, you will have a fresh Next.js 14 project running on your laptop, understand why we are switching from Vite/CRA to Next.js now, have your first pages with the new App Router, and know the difference between Server Components and Client Components in your bones -- not just on paper. You will not have a working e-commerce app yet. Today is the shift of mental model.
 
 This is the start of Phase 3 of the Marathon: **commerce, payments, and automation**. The entire phase is built on Next.js. Three weeks from today you will have a working online shop that takes real M-Pesa payments and sends WhatsApp confirmations. That is a lot of ground to cover, and Next.js -- more than React alone -- is the tool that makes it cover-able in three weeks.
