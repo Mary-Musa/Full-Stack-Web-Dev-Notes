@@ -1,5 +1,7 @@
 # Week 17, Day 1: Stripe Foundations
 
+> **AI boundaries this week:** 30% manual / 70% AI. Habit: *Provider docs first, implementation second.* Money rule still applies. See [ai.md](../ai.md).
+
 By the end of today, your shop accepts international card payments through Stripe. A customer outside Kenya can land on your product page, click Pay, enter card details in a Stripe-hosted checkout, and their card gets charged -- with webhooks updating your orders table. Stripe Elements, Stripe Checkout, test cards, and the same callback pattern you learned for M-Pesa.
 
 **Prior-week concepts you will use today:**
