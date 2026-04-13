@@ -1,5 +1,7 @@
 # Week 18, Day 1: Webhook Security
 
+> **AI boundaries this week:** 45% manual / 55% AI (SECURITY DIP). Habit: *Audit every security line AI writes -- line-by-line.* Money + auth rules both apply. See [ai.md](../ai.md).
+
 By the end of today, every webhook endpoint in your app verifies the request came from who it claims to come from. Stripe events are HMAC-verified, M-Pesa callbacks are IP-allowlisted and signature-checked where possible, Airtel is verified via their provided signature. Any request that fails verification is rejected with 401 and never touches your database.
 
 This is the day you stop trusting the public internet.
