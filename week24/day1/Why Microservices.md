@@ -1,5 +1,7 @@
 # Week 24, Day 1: Why Microservices, and When Not
 
+> **AI boundaries this week:** 45% manual / 55% AI (ARCHITECTURE DIP). Habit: *Draw the split on paper -- AI implements splits you decided.* See [ai.md](../ai.md).
+
 By the end of today, you understand what a microservice split actually is, the five good reasons and five bad reasons people split, and a concrete plan for extracting the Notification service from your Express app as your first split.
 
 **Prior-week concepts you will use today:**
