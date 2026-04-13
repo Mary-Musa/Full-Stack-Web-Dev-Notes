@@ -1,5 +1,7 @@
 # Week 30, Day 1: Testing and QA
 
+> **AI boundaries this week:** 20% manual / 80% AI. Habit: *Engineer-led, AI-powered -- you drive, AI accelerates.* See [ai.md](../ai.md).
+
 By the end of today, the Capstone is hardened: critical paths have automated tests, a manual QA checklist catches the things tests cannot, and a staging environment mirrors production.
 
 **Estimated time:** 4 hours.
