@@ -1,5 +1,7 @@
 # Forms in React
 
+> **AI boundaries this week:** 55% manual / 45% AI. Habit: *AI as pair partner -- ask follow-ups, push back, decide yourself.* See [ai.md](../ai.md).
+
 ## Learning Goals
 
 By the end of this topic, you should be able to:
