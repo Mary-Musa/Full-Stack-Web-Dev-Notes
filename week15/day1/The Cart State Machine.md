@@ -1,5 +1,7 @@
 # Week 15, Day 1: The Cart State Machine
 
+> **AI boundaries this week:** 35% manual / 65% AI. Habit: *Model the state machine on paper before any code.* See [ai.md](../ai.md).
+
 By the end of today, your shop has a working cart. Users can add items, remove items, change quantities, see a cart count in the header, and the cart persists across page reloads and tabs. You will build it with Zustand for client-side state and `localStorage` for persistence. The cart lives entirely on the client today; tomorrow's checkout is where the server gets involved.
 
 **Prior-week concepts you will use today:**
