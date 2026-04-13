@@ -1,5 +1,7 @@
 # Full Stack Web Development Marathon: Onboarding & Tool Setup Guide
 
+> **AI boundaries this week:** 90% manual / 10% AI. Habit: *Ask AI to explain, not to do.* Read [ai.md](../ai.md) before starting -- it explains exactly what you can and cannot use AI for this week.
+
 Welcome to the **Full-Stack Web Development Marathon**!
 
 This guide is designed to take you from "zero to coding" by helping you set up a professional development environment. We'll be using the same tools used by industry professionals: **Visual Studio Code**, **Git**, **GitHub**, and **Node.js**.
