@@ -1,5 +1,7 @@
 # Week 11, Day 1: WhatsApp Cloud API Foundations
 
+> **AI boundaries this week:** 45% manual / 55% AI. Habit: *New tech = manual. Repeated patterns = AI. Classify every feature before you code.* See [ai.md](../ai.md).
+
 By the end of today, you will have an Express server running on your laptop that Meta's WhatsApp infrastructure can reach over a real HTTPS URL, a SQLite database with the three tables a CRM needs, and a verified webhook that logs every incoming WhatsApp message to your terminal. You will not have a working bot yet -- that is tomorrow. Today is about proving the wires are connected.
 
 This is the start of a four-day capstone. By Friday you will have a WhatsApp bot that captures leads through a short conversation and a web dashboard where a sales team can search, filter, and manage them. The problem you are solving is real: a real estate agency in Lavington, a car yard on Ngong Road, or an insurance broker in Westlands can receive two hundred WhatsApp messages over a weekend and lose most of them because nobody can keep track of the chaos. Your system turns that chaos into a sales pipeline.
