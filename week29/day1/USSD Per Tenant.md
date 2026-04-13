@@ -1,5 +1,7 @@
 # Week 29, Day 1: USSD Per Tenant
 
+> **AI boundaries this week:** 25% manual / 75% AI. Habit: *AI is your hands; you are the brain.* See [ai.md](../ai.md).
+
 By the end of today, a customer dialling a USSD code is routed to the right tenant's menu based on the service code, and the menus read from that tenant's products and customers.
 
 **Prior-week concepts you will use today:**
