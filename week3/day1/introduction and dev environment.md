@@ -1,5 +1,7 @@
 # Lesson 1.1: Introduction to JavaScript & Development Environment
 
+> **AI boundaries this week:** 80% manual / 20% AI. Habit: *The 15-minute rule -- try for 15 minutes before you prompt.* See [ai.md](../ai.md).
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Explain what JavaScript is and its role in web development.
