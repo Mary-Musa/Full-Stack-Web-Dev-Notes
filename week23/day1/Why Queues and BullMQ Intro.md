@@ -1,5 +1,7 @@
 # Week 23, Day 1: Why Queues and BullMQ Intro
 
+> **AI boundaries this week:** 35% manual / 65% AI. Habit: *Prototype alone, productionize with AI.* See [ai.md](../ai.md).
+
 By the end of today, you have BullMQ installed, a first queue running, and you understand the three problems queues solve that direct function calls cannot.
 
 **Prior-week concepts you will use today:**
