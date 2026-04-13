@@ -1,5 +1,7 @@
 # Week 22, Day 1: Project 4 -- Architecture
 
+> **AI boundaries this week:** 25% manual / 75% AI. Habit: *Model the domain yourself -- AI builds the code once the model is clear.* See [ai.md](../ai.md).
+
 This week we build the Chama Savings Platform end-to-end. It combines everything from Phase 3: Telegram bots, payments, cron jobs, WhatsApp messages, and a small Next.js dashboard for the treasurer. By Friday night the bot is running in a real chama group. The weekend is polish and demo prep.
 
 **Prior-week concepts you will use today:**
