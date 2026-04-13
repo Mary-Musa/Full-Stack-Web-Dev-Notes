@@ -1,5 +1,7 @@
 # Week 12, Day 1: PostgreSQL Fundamentals
 
+> **AI boundaries this week:** 45% manual / 55% AI. Habit: *Never trust AI with auth -- the second permanent hard rule, alongside Week 10's "never trust AI with money".* See [ai.md](../ai.md).
+
 By the end of today, you will have PostgreSQL installed and running on your laptop, a database called `crm` with the three tables from last week's WhatsApp CRM recreated in proper relational form, and you will be comfortable enough in `psql` to insert a lead, attach a conversation to it, attach messages to the conversation, and pull the whole thing back with a single `JOIN` query. You will not touch Node today. Today is about the database itself -- next to SQL, everything else is plumbing.
 
 This is the start of a reconciliation week. Weeks 7-11 were heavy on React and real integrations (M-Pesa, WhatsApp), but we skipped two pieces that the rest of the Marathon depends on: a real relational database, and real authentication. Week 12 backfills both. Friday you will hand in a Week 11 CRM that has been migrated to Postgres, has users who log in, and where one sales agent cannot see another agent's leads. Without the backfill the payments reconciliation work in Week 17 and the multi-tenant capstone in Weeks 27-30 would collapse, so treat this week as load-bearing -- not review.
