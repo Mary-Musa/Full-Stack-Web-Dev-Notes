@@ -1,5 +1,7 @@
 # Week 25, Day 1: Docker Basics
 
+> **AI boundaries this week:** 30% manual / 70% AI. Habit: *AI is great at YAML; you verify every port, volume, and env var.* See [ai.md](../ai.md).
+
 By the end of today, you can build a Docker image of your API service, run it locally, understand what a Dockerfile is, and know the difference between an image and a container.
 
 **Prior-week concepts you will use today:**
