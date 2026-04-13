@@ -1,5 +1,7 @@
 # Week 20, Day 1: Telegram Bot Foundations
 
+> **AI boundaries this week:** 40% manual / 60% AI. Habit: *New channel, manual handshake -- the first successful round-trip is yours; AI scaffolds what comes after.* See [ai.md](../ai.md).
+
 By the end of today, you have a Telegram bot running locally that responds to basic commands, registered with the BotFather, and connected through a webhook. You will reuse the state-machine pattern from Week 13 USSD -- Telegram bots are functionally "USSD with images".
 
 **Prior-week concepts you will use today:**
