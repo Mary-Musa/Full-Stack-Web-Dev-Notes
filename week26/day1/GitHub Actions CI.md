@@ -1,5 +1,7 @@
 # Week 26, Day 1: GitHub Actions for CI
 
+> **AI boundaries this week:** 25% manual / 75% AI. Habit: *AI scaffolds, you review the pipeline.* See [ai.md](../ai.md).
+
 By the end of today, every push to your repo runs tests, lints, and builds Docker images automatically. Failed checks block merges. You will have green checkmarks on your PRs and know when code breaks before it reaches production.
 
 **Prior-week concepts you will use today:**
