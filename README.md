@@ -9,7 +9,7 @@ The FullStack Web Dev Marathon is an intensive program focused on mastering mode
 
 | Topic | Description | Link |
 | :--- | :--- | :--- |
-| **JavaScript DOM** | Understanding the Document Object Model, selection, manipulation, and event handling. | [View Notes](./JavaScript-DOM.md) |
+| **JavaScript DOM** | Understanding the Document Object Model, selection, manipulation, and event handling. | [View Notes](./week04/day1/JavaScript-DOM.md) |
 
 ## 🛠 Progress
 This repository is a work in progress and will be updated regularly as the marathon progresses.
